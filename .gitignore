@@ -19,3 +19,6 @@ Desktop.ini
 # Credentials
 *.env
 credentials/
+
+
+out/
