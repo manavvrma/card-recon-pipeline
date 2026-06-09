@@ -1,0 +1,21 @@
+# Build output
+glue_jobs/target/
+glue_jobs/project/target/
+*.jar
+*.class
+
+# Generated data
+data/*.csv
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Credentials
+*.env
+credentials/
